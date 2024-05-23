@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="me.css">
+    <title>about-us</title>
+</head>
+<body>
+<ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="About us.html">ABOUT US</a></li>
+        <li><a href="product.html"> OUR PRODUCT</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="#">SERVICE</a></li>
+    </ul>
+</div>
+    <h1>ABOUT US</h1>
+    <p> <h1>LtdDAYANA <br> FISRTLY WELCOM TO OUR SHOP<br> about us you are allowed to knwo som ingredient which made our chocolate product <br>with some level of each one and we illistrate the process used to provide them to our cutomer in simple way. <br>Some categories of ingridient include in ourchocolate like cacao beans, sugar, milk, and cocoa butter</p></body>
+        <center>
+        <ul>
+            <li>
+                <h1><p>SOME INGRIDIENT OF OUR CHOCOLATE </p>
+                <p>1.MILK<br>Whole cow's milk contains about 87% water.<br> The remaining 13% contains protein, fat, carbohydrates, vitamins, and minerals. <br>Processing techniques remove fat to produce lower fat varieties: “reduced fat” contains 2% milkfat, “lowfat” contains 1% milkfat, and “nonfat” or “skim” has virtually no milkfat.</p></h1>
+                <img src="m1.jpeg"  width="300PX" height="200PX">
+                <img src="m2.jpeg"  width="200PX" height="100PX">
+                <h1><p> 2.COCOA BUTTER</p><h1>
+                <h1><p>The main constituent of cocoa butter is the triglyceride (fat) derived from palmitic acid, oleic acid, and stearic acid.</p></h1>
+                <img src="b1.jpeg"  width="300PX" height="200PX">
+                <img src="b2.jpeg"  width="300PX" height="200PX">
+                <img src="b3.jpeg"  width="300PX" height="200PX">
+                <h1><p>4. COCOA BEANS</p></h1>
+                <h1><p>Cocoa beans' composition
+                    Each bean is made of about 50% of a fat called cocoa butter. <br>The beans are 20% protein and also contain water, as well as a large amount of nutrients such as theobromine and vitamins</p></h1>
+                <img src="cb2.jpeg"  width="300PX" height="200PX">
+                <img src="cb3.jpeg"  width="300PX" height="200PX">
+                <h1>
+                    <p>5.SUGAR</p>
+                    <img src="s1.jpeg"  width="300PX" height="200PX">
+                    <img src="s2.jpeg"  width="300PX" height="200PX">
+                    <img src="s3.jpeg"  width="300PX" height="200PX">
+                </h1>
+
+                <h1><p>6.EGG<br>Eggs are composed of mostly water, with proteins, fats, and minerals.</p></h1>
+                <img src="e1.jpeg"  width="200PX" height="100PX">
+                <img src="e2.jpeg"  width="200PX" height="100PX">
+                
+            </li>
+        </ul>
+    </center>
+</body>
+</html>

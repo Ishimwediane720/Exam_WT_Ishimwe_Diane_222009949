@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="me.css">
+    <title>Contact us</title>
+</head>
+<body>
+    <ul>
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="About us.html">ABOUT US</a></li>
+        <li><a href="#">SERVICE</a></li>
+        <li><a href="product.html"> OUR PRODUCT</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+    </ul>
+</div>
+    <div>
+    <h1>CONTACT US</h1>
+    <h1><P>Owner of the business dianeishimwe<br>Those are some of our address that can help our customer to know some information, <br> your can contuct us inorder to know additional information.</P></h1>
+    
+ <center>
+    <marquee>
+        <h2><p>This is our address that can help you to know more information about <br>DAYANA'S CHOCOLATE!!</p></h2>
+    </marquee>
+ <h1><ul>
+
+        <ol class="DAYANA">
+        <li>1.Email: dianeishimwe@gmail.com</li>
+        <li>2.Tel:0781186483</li>
+        <li>3.facebook page: @dianeishimwe</li>
+        <li>4.istagram account: @ishimwe-512</li>
+    </ol></h1>
+ </center>
+    </div>
+   
+</body>
+</html>
